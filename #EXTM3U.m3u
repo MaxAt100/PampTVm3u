@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTGRP:Официальный PampTV
+#EXTINF:-1,PampTV
+rtmp://192.168.188.130/live
+#EXTGRP:Какое-то видео
+#EXTINF:-865,Нажми
+https://youtu.be/dQw4w9WgXcQ
